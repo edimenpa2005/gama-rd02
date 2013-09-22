@@ -1,0 +1,133 @@
+/*<div id="contenedor">
+	<!-- Encabezado -->
+	<header id="header">
+	</header>
+	<!-- Menu principal -->
+	<nav id="nav">
+	</nav>
+	<!-- Cuerpo de la pagina -->
+	<section id="cuerpo">
+	</section>
+	<!-- Pie de pagina -->
+	<footer id="footer">
+	</footer>
+</div>*/
+html,body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+}
+
+#contenedor{
+width: 960px;
+height: auto;
+min-height: 1050px;
+margin:0 auto; 
+background: #000;
+}
+
+#logogama{
+width: 300px;
+height: 100px;
+margin: 20px 0px 10px 20px;
+background: url(../img/logo.png) no-repeat;
+float:left;
+display: block;
+}
+
+#rsociales{
+	width: 96px;
+	height: 100px;
+	margin: 20px 20px 0px 0px;
+	background: url(../img/r_sociales.png) no-repeat;
+	float: right;
+	display: block;
+}
+/*MENU PRINCIPAL*/
+#nav{
+width: auto;
+height: auto;
+margin: 30px 0px 0px 0px;
+/*background: url(../img/nav.png) repeat-y;*/
+position: relative;
+display: block;
+float: left;
+
+}
+#nav ul {
+      list-style: none;
+	  margin-left: 10px;
+	  padding: 0;
+    }
+    #nav li {
+      display: inline-block;
+/*      text-decoration: underline;*/
+    }
+    #nav a {
+      display: inline-block;
+      
+      color: #333;
+      padding: 5px 15px;
+      /*text-decoration: none;*/
+    }
+    #nav a:hover {
+      /*background: red;*/
+      font-size: 14px;
+    }
+    #nav a.active {
+      /*background: #3a536b;*/
+      font-size: 14px;
+    }
+    #nav select {
+      display: none;
+    }
+
+/*FIN MENU*/
+
+#tituloencabezado{
+	width: 100%;
+	height: auto;
+	display: block;
+	font-size: 24px;
+	text-shadow: 4px 4px 10px #aaa;
+	text-align: center;
+	clear: both;
+}
+
+#tituloencabezado h1{
+font-family: 'Tangerine', serif;
+margin: 0;
+padding: 0;
+}
+
+#tituloencabezado h2{
+font-family: 'Life Savers', cursive;
+font-size: 20px;
+margin: 0;
+padding: 0;
+}
+
+#tituloencabezado h3{
+font-family: 'Roboto', sans-serif;
+font-size: 15px;
+font-weight: 300;
+margin: 5;
+padding: 0;
+}
+
+#cuerpo{
+width: 960px;
+height: auto;
+/*background: url(../img/cuerpo.png) repeat-y;*/
+background: #fff;
+min-height: 800px;/*Cambiar a auto cuando tenga contendio*/
+margin-top: 5px;
+
+}
+#footer{
+width: 960px;
+min-height: 100px;
+background: url(../img/footer_bg.jpg) repeat;
+}

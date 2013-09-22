@@ -1,0 +1,8 @@
+body{
+	background: url(../img/fondo.jpg) fixed top center no-repeat;
+}
+#header{
+	width: 960px;
+	height: 290px;
+	background:url(../img/header_bg.jpg) repeat;
+}
