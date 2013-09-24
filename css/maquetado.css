@@ -37,14 +37,42 @@ float:left;
 display: block;
 }
 
-#rsociales{
-	width: 96px;
+/*Boton de Redes sociales*/
+
+
+/*#rsociales{
+	width: 101px;
 	height: 100px;
 	margin: 20px 20px 0px 0px;
 	background: url(../img/r_sociales.png) no-repeat;
 	float: right;
 	display: block;
+}*/
+
+.rsociales { 
+	width: 120px; 
+/*	margin-left: auto; */
+	margin: 20px 20px 0px 0px;
+	/*padding-top:18px;*/  
+	float: right;
+	display: block;
 }
+.rsociales a { width: 31px; height: 31px; float:left; margin-left: 6px;  background: url(../img/r_sociales.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
+
+.rsociales a.facebook-ico { background-position: 0 0; }
+.rsociales a.facebook-ico:hover { background-position:-2px bottom; }
+
+.rsociales a.twitter-ico { background-position:-35px 0; }
+.rsociales a.twitter-ico:hover { background-position:-37px bottom; }
+
+.rsociales a.youtube-ico { background-position:-70px 0; }
+.rsociales a.youtube-ico:hover { background-position:-72px bottom; }
+
+
+
+
+/*Fin Redes sociales*/
+
 /*MENU PRINCIPAL*/
 #nav{
 width: auto;
@@ -130,4 +158,16 @@ margin-top: 5px;
 width: 960px;
 min-height: 100px;
 background: url(../img/footer_bg.jpg) repeat;
+}
+
+/*Modulo de Video*/
+#video{
+	width: 460px;
+	height: auto;
+	display: block;
+	margin: 10px;
+	padding: 0 30px;
+	position: relative;
+	float: left;
+
 }
