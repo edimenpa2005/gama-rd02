@@ -6,20 +6,32 @@ Integracion de un favicon al sitio
 
 trabajo para el dia siguiente
 
-formulario de Regalo
+formulario de subscripcion
 
-Empieza ya, mañana es demaciado tarde
-el primer paso es el registro de tu dominio
-envianos tus datos y gratis te lo averiguamos si es que el dominio que necesites esta libre.
+El primer paso es el registro de tu dominio (tu nombre en internet)
 
-Nombre:
+Nombre o razon social:
 correo electronico:
-Como quisieras que sea el nombre de tu dominio en internet:
+Nombre de dominio: 
+
+
 ej. fabricadechocolates.com
+El dominio es el nombre de sitio web en internet
+e enviaremos gratis a tu correo la respuesta de disponibilidad junto con un analisis y sugerencia de otros posibles dominios
+
+Falta crear una clase en php para enviar correo electronico
+falta crear una ventana emergente de que su correo se ha enviado correctamente
+(ambos se elaboraran despues de que este terminado el diseño
 
 
 
 
 Comentarios con cuenta de facebook
+
+plugin comments facebook
+
+
 loguearse con tu cuenta de facebook
+
+
 
