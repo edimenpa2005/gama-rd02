@@ -131,9 +131,18 @@
 		<footer>Preguntas sobre los productos</foodter>
 	</section>
 
-	
+<!-- Fin Seccion de Productos -->
 
-
+<!-- Seccion de Promociones -->
+<section class="promociones">
+	<article>
+		<header></header>
+		<section></section>
+		<footer></footer>
+	</article>
+	<header></header>
+</section>
+<!-- Fin Seccion de Promociones -->
 
 
 	</div> <!-- Fin del  Cuerpo  -->
