@@ -84,7 +84,7 @@
 			<footer>
 				  <p>ej. fabricadechocolates.com <br />
 				  	El dominio es el nombre de sitio web en internet</p>
-  <p>Te enviaremos gratis a tu correo la respuesta de disponibilidad junto con un analisis y sugerencia de otros posibles dominios</p>
+  <p>Te enviaremos gratis a tu correo la respuesta de disponibilidad junto con un análisis y sugerencia de otros posibles dominios</p>
 
 			</footer>
 
